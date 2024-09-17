@@ -4,7 +4,7 @@
 <head>
 	<meta charset="utf-8">
 	<title>San Joaquin Valley Town Hall</title>
-	<link rel="shortcut icon" href="images/favicon.ico">
+	<link rel="shortcut icon" href="town_hall_1/images/favicon.ico">
 </head>
 
 <body>
@@ -20,7 +20,7 @@
         	<li>season package: $95</li>
             <li>patron package: $200</li>
             <li>single speaker: $20</li>
-	</ul>
+        </ul>
 	</header>
 	<main>
 		
